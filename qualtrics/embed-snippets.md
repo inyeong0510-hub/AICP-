@@ -10,6 +10,9 @@
 > - 출처는 **시행 전 공통 안내에 한 번만** 밝힙니다 (양 군 동일 문장):
 >   "본 설문에서 제시되는 자료는 실제 FOMC 회의를 바탕으로 연구팀이 구성한
 >   것이며, 언론사명 등 일부 정보는 익명 처리되어 있습니다."
+> - 문항 본문에서는 형식 명사를 쓰지 말고 **"이 자료에서"** 로 통일하세요.
+>   그래야 판단 문항 16개가 양 군 완전히 동일해지고, 형식 명사를 바꿀 때
+>   안내문 8개만 고치면 됩니다.
 > - `style` 값은 8문항 전부 동일하게 유지하세요. 자극물 크기 차이는 그 자체로 교란 변인이 됩니다.
 > - 질문의 파란 링크 "이 질문에 사용할 그래픽 선택"은 누르지 마세요. 이미지가 두 번 표시됩니다.
 
@@ -64,40 +67,40 @@
 ### 시행1 · `A_2021_대시보드` · 정답: **비관**
 
 ```html
-<p>아래는 2021년 4월 미국 FOMC 회의에 대한 대시보드입니다.</p>
+<p>아래는 2021년 4월 미국 FOMC 회의에 대한 도표입니다.</p>
 
 <img src="https://raw.githubusercontent.com/inyeong0510-hub/AICP-/claude/epic-lovelace-gc056z/images/png/A_2021_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png"
-     alt="2021년 FOMC 어조 지수 대시보드"
+     alt="2021년 FOMC 지수 도표"
      style="width:100%;max-width:640px;height:auto;display:block;margin:16px auto;border:1px solid #e0e0e0;border-radius:8px;" />
 ```
 
 ### 시행2 · `C_2024_대시보드` · 정답: **낙관**
 
 ```html
-<p>아래는 2024년 1월 미국 FOMC 회의에 대한 대시보드입니다.</p>
+<p>아래는 2024년 1월 미국 FOMC 회의에 대한 도표입니다.</p>
 
 <img src="https://raw.githubusercontent.com/inyeong0510-hub/AICP-/claude/epic-lovelace-gc056z/images/png/C_2024_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png"
-     alt="2024년 FOMC 어조 지수 대시보드"
+     alt="2024년 FOMC 지수 도표"
      style="width:100%;max-width:640px;height:auto;display:block;margin:16px auto;border:1px solid #e0e0e0;border-radius:8px;" />
 ```
 
 ### 시행3 · `B_2023_대시보드` · 정답: **비관**
 
 ```html
-<p>아래는 2023년 6월 미국 FOMC 회의에 대한 대시보드입니다.</p>
+<p>아래는 2023년 6월 미국 FOMC 회의에 대한 도표입니다.</p>
 
 <img src="https://raw.githubusercontent.com/inyeong0510-hub/AICP-/claude/epic-lovelace-gc056z/images/png/B_2023_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png"
-     alt="2023년 FOMC 어조 지수 대시보드"
+     alt="2023년 FOMC 지수 도표"
      style="width:100%;max-width:640px;height:auto;display:block;margin:16px auto;border:1px solid #e0e0e0;border-radius:8px;" />
 ```
 
 ### 시행4 · `D_2025_대시보드` · 정답: **낙관**
 
 ```html
-<p>아래는 2025년 1월 미국 FOMC 회의에 대한 대시보드입니다.</p>
+<p>아래는 2025년 1월 미국 FOMC 회의에 대한 도표입니다.</p>
 
 <img src="https://raw.githubusercontent.com/inyeong0510-hub/AICP-/claude/epic-lovelace-gc056z/images/png/D_2025_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png"
-     alt="2025년 FOMC 어조 지수 대시보드"
+     alt="2025년 FOMC 지수 도표"
      style="width:100%;max-width:640px;height:auto;display:block;margin:16px auto;border:1px solid #e0e0e0;border-radius:8px;" />
 ```
 
