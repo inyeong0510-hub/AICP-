@@ -42,6 +42,8 @@ FOMC 회의를 소재로 한 **뉴스 기사** / **대시보드** 자극물 저�
 - `images/png/` — PNG. Qualtrics 그래픽 라이브러리 업로드용 (호환성 최우선)
 - `images/webp/` — WebP. 용량 약 1/5, `<img>` 직접 삽입용
 
+Qualtrics HTML 삽입용 스니펫 8종은 [`qualtrics/embed-snippets.md`](qualtrics/embed-snippets.md) 참고.
+
 ## Qualtrics에서 사용하는 법
 
 ### 방법 1 — 그래픽 라이브러리 업로드 (권장)
