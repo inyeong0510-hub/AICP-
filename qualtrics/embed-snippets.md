@@ -58,7 +58,7 @@
 ### 시행1 · `A_2021_대시보드` · 정답: **비관**
 
 ```html
-<p>아래 대시보드는 2021년 4월에 열린 미국 FOMC 회의를 요약한 자료입니다.</p>
+<p>아래 대시보드는 2021년 4월에 미국 FOMC 회의 직후 공공기관에서 나온 자료입니다.</p>
 
 <img src="https://raw.githubusercontent.com/inyeong0510-hub/AICP-/claude/epic-lovelace-gc056z/images/png/A_2021_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png"
      alt="2021년 FOMC 어조 지수 대시보드"
@@ -68,7 +68,7 @@
 ### 시행2 · `C_2024_대시보드` · 정답: **낙관**
 
 ```html
-<p>아래 대시보드는 2024년 1월에 열린 미국 FOMC 회의를 요약한 자료입니다.</p>
+<p>아래 대시보드는 2024년 1월에 미국 FOMC 회의 직후 공공기관에서 나온 자료입니다.</p>
 
 <img src="https://raw.githubusercontent.com/inyeong0510-hub/AICP-/claude/epic-lovelace-gc056z/images/png/C_2024_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png"
      alt="2024년 FOMC 어조 지수 대시보드"
@@ -78,7 +78,7 @@
 ### 시행3 · `B_2023_대시보드` · 정답: **비관**
 
 ```html
-<p>아래 대시보드는 2023년 6월에 열린 미국 FOMC 회의를 요약한 자료입니다.</p>
+<p>아래 대시보드는 2023년 6월에 미국 FOMC 회의 직후 공공기관에서 나온 자료입니다.</p>
 
 <img src="https://raw.githubusercontent.com/inyeong0510-hub/AICP-/claude/epic-lovelace-gc056z/images/png/B_2023_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png"
      alt="2023년 FOMC 어조 지수 대시보드"
@@ -88,7 +88,7 @@
 ### 시행4 · `D_2025_대시보드` · 정답: **낙관**
 
 ```html
-<p>아래 대시보드는 2025년 1월에 열린 미국 FOMC 회의를 요약한 자료입니다.</p>
+<p>아래 대시보드는 2025년 1월에 미국 FOMC 회의 직후 공공기관에서 나온 자료입니다.</p>
 
 <img src="https://raw.githubusercontent.com/inyeong0510-hub/AICP-/claude/epic-lovelace-gc056z/images/png/D_2025_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C.png"
      alt="2025년 FOMC 어조 지수 대시보드"
